@@ -1,0 +1,4 @@
+02 Nov 2023 21:20:21.598 INFO com.Example.Main main - inside main():: a: 0
+02 Nov 2023 21:20:21.658 INFO com.Example.Main method1 - inside method1()
+02 Nov 2023 21:20:21.659 INFO com.Example.Main method2 - inside method2()
+02 Nov 2023 21:20:21.659 INFO com.Example.Main method3 - inside method3()
