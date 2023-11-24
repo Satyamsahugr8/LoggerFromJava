@@ -1,6 +1,8 @@
-package com.Example;
+package com.Runner;
 
 import java.util.logging.Logger;
+
+import com.Example.LoggerConfiguration;
 
 public class Main {
 	
