@@ -1,0 +1,4 @@
+25 Nov 2023 16:40:49.475 INFO com.Runner.Main main - inside main():: a: 0
+25 Nov 2023 16:40:49.555 INFO com.Runner.Main method1 - inside method1()
+25 Nov 2023 16:40:49.556 INFO com.Runner.Main method2 - inside method2()
+25 Nov 2023 16:40:49.556 INFO com.Runner.Main method3 - inside method3()

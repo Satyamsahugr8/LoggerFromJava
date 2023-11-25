@@ -25,7 +25,7 @@ public class LoggerConfiguration {
 				}
 			};
 
-			FileHandler fileHandler = new FileHandler("apps.log", true);
+			FileHandler fileHandler = new FileHandler("C:\\Users\\satya\\git\\LoggerFromJava\\src\\main\\resources\\apps.log", true);
 			fileHandler.setFormatter(customFormatter);
 			LOGGER.addHandler(fileHandler);
 
